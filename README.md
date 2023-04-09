@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm student at AYBU<br>🌱 I'm currently learning web development technologies<br>
+🏫 I'm student at AYBU<br>🌱 I'm currently learning React<br>
 
 
 ## 🌐 Socials:
