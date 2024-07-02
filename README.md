@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=material-ui)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 
